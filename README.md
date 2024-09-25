@@ -9,10 +9,8 @@ To install the required dependencies, run:
 <h3>Project Structure</h3>
 <h4>supabase_service/</h4>
 <strong>database.py:</strong> Contains the SupabaseDatabase class for database operations. (better use direct connection
-jdbc)
-<strong>storage.py:</strong> Contains principal methods for use Supabase storage.
-<strong>auth.py:</strong> Contains principal methods for authentication operations and session verification.
-<strong>types.py:</strong> Defines the GenericResponse class used for standardized responses.
-<strong>requirements.txt:</strong> Lists the dependencies required for the project.
-
-his project is licensed under the MIT License. See the LICENSE file for more details
+jdbc) <br>
+<strong>storage.py:</strong> Contains principal methods for use Supabase storage. <br>
+<strong>auth.py:</strong> Contains principal methods for authentication operations and session verification. <br>
+<strong>types.py:</strong> Defines the GenericResponse class used for standardized responses. <br>
+<strong>requirements.txt:</strong> Lists the dependencies required for the project. <br>
